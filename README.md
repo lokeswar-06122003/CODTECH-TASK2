@@ -45,4 +45,7 @@ This program is designed to manage and track student grades by allowing the user
 
 4. **Program Execution**:
    - The program is run by calling `manage_student_grades()`. It handles user input, calculations, and displays the results.
+  
+     
 
+![Screenshot 2024-09-09 193514](https://github.com/user-attachments/assets/7773a592-48c6-4bbf-83f0-0d76b8a0f12b)
